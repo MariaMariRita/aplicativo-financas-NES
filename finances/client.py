@@ -1,4 +1,3 @@
-from typing import List
 from .account import Account
 from .investment import Investment
 
